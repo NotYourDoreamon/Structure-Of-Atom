@@ -1,6 +1,6 @@
 # Structure-of-Atom
 
-<img width="1141" src="https://github.com/NotYourDoreamon/Structure-of-Atom/assets/demo">
+<img width="1141" src="https://media.discordapp.net/attachments/1133396899177709700/1179780249425281065/257155476-b5026aab-6bcc-4ac4-bcb1-450f384609e1.png?ex=657b06fa&is=656891fa&hm=2844c8dc16f8dbb43c618d14ed39a138d34fc66343cf57854e750d36fed598ad&">
 
 		transform: rotate(80deg) !important;
 		right: 14vmin !important;
